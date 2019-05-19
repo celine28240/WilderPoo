@@ -11,7 +11,7 @@ public class Wilder{
 	
 	public Wilder (String firstName, boolean aware){
 		this.firstName = firstName;
-		this.aware=true;
+		this.aware=aware;
 	} 
 
 	//Statics Methods
